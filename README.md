@@ -9,7 +9,7 @@ My solution for robot-cleaner problem with tests
 
 ## Getting started
 
-The program takes `input.txt` file and returns the result in console. The format of file can be found in PDF.
+The program takes `input.txt` file and returns the result in console. The format of file can be found in PDF. The idea of the solution is simple - we store all points robot visited and then calculate number of unique points.
 
 ### Run application
 
